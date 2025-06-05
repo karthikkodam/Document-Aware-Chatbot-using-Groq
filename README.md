@@ -33,7 +33,7 @@ Each response includes supporting context from the source document.
 
 ## How to Run (Google Colab)
 
-1. Open the notebook: [📓 Colab Notebook Link](https://colab.research.google.com/drive/1E4tLvqGsf9UCuP6BGZi4IJN4Zs9ibJAp?usp=sharing)
+1. Open the notebook: [Colab Notebook Link](https://colab.research.google.com/drive/1E4tLvqGsf9UCuP6BGZi4IJN4Zs9ibJAp?usp=sharing)
 2. Upload `ISLP_website - Copy.pdf`
 3. Run each cell step-by-step
 4. Ask questions in natural language.
